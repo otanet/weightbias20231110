@@ -4,6 +4,11 @@ Weights & Biasesハンズオン -MLOpsからLLMOpsまで-
 
 https://wandb.connpass.com/event/300254/
 
+参加者と発表者のみに公開されます)
+当日は、下記のZoomにて開催をします
+
+https://wandb.zoom.us/j/82179161695
+
 
 10/25 1849
 参加者と発表者のみに公開されます)
